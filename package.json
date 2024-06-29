@@ -9,24 +9,5 @@
   },
   "name": "new_clinic",
   "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "nodemon start",
-    "build": "nodemon build",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sisu2468/new_clinic.git"
-  },
-  "keywords": [
-    "hubspot_spreadsheet"
-  ],
-  "author": "高楽",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sisu2468/new_clinic/issues"
-  },
-  "homepage": "https://github.com/sisu2468/new_clinic#readme",
-  "description": ""
+  "main": "index.js"
 }
