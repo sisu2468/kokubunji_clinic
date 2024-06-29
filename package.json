@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "google-spreadsheet": "^4.1.1",
+    "googleapis": "^136.0.0",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.1.3"
+  },
+  "name": "new_clinic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon start",
+    "build": "nodemon build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sisu2468/new_clinic.git"
+  },
+  "keywords": [
+    "hubspot_spreadsheet"
+  ],
+  "author": "高楽",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sisu2468/new_clinic/issues"
+  },
+  "homepage": "https://github.com/sisu2468/new_clinic#readme",
+  "description": ""
+}
