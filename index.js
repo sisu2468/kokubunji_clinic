@@ -93,7 +93,7 @@ app.get('/data', async (req, res) => {
 });
 
 app.listen(8000, () => {
-  console.log('Server started on http://localhost:5000'); // Listen on localhost:3000
+  console.log('Server started on http://localhost:8000'); // Listen on localhost:3000
 });
 
 module.exports = app; // Export the app for potential testing or further integration
